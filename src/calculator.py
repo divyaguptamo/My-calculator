@@ -34,6 +34,8 @@ def divide(a, b):
     return result
 
 # TODO: Students will add multiply, divide, power, sqrt functions
+def power(a, b):
+    return a ** b+10
 
 if __name__ == "__main__":
     print("🧮 Calculator Module")
